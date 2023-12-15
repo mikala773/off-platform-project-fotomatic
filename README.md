@@ -6,7 +6,7 @@ https://www.codecademy.com/journeys/full-stack-engineer/paths/fscj-22-web-develo
 
 Welcome to the Off-Platform Project: Fotomatic, created as part of the Codecademy curriculum for the Full-Stack Engineering Path. 
 This project focuses on fixing a broken version of a responsive website. I was provided specs to help
-guide me in fixing the broken code. I used Chromedev tools to help guide me.
+guide me in fixing the broken code. I used Chrome Dev tools to help guide me.
 
 ## Design Spec
 
