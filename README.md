@@ -10,7 +10,7 @@ guide me in fixing the broken code. I used Chromedev tools to help guide me.
 
 ## Design Spec
 
------
+https://mikala773.github.io/off-platform-project-fotomatic/fotomatic_spec_landing_v2_w:conversions.png
 
 ## Status
 - Complete
