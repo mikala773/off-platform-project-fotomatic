@@ -22,7 +22,7 @@ guide me in fixing the broken code. I used Chromedev tools to help guide me.
 
 ## Visit Site
 
------
+https://mikala773.github.io/off-platform-project-fotomatic/
 
 ## Contact
 
